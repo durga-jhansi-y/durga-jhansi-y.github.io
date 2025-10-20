@@ -1,0 +1,1 @@
+print("Hello N.I.A.D!")
