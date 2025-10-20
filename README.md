@@ -25,3 +25,29 @@ After training, feed new, live network traffic to your model. Any significant de
 #### Trigger an alert: 
 When an anomaly is detected, the system can print an alert to the console or log the details of the suspicious activity.</br>
 
+# Final Project Structure : 
+N.I.A.D/ </br> 
+│
+├── backend/ </br> 
+│   ├── app.py                # Flask/FastAPI server </br> 
+│   ├── preprocess.py         # Clean + encode + scale NSL-KDD data </br> 
+│   ├── train_model.py        # Train and save ML model </br> 
+│   ├── test_model.py         # Evaluate accuracy</br> 
+│   ├── models/</br>
+│   │   └── niad_model.pkl    # Saved trained model</br>
+│   ├── data/</br>
+│   │   └── KDDTrain+.txt</br>
+│   │   └── KDDTest+.txt</br>
+│   ├── requirements.txt      # Dependencies</br>
+│   └── backend.md            # Your progress documentation</br>
+│</br>
+├── frontend/</br>
+│   ├──  </br>
+│   ├──  </br>
+│   ├──  </br>
+│   ├──  </br>
+│   └──  </br>
+│</br>
+├── README.md                 # Project summary + how to run</br>
+└── .gitignore</br>
+
