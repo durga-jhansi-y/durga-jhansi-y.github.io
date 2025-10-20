@@ -51,3 +51,10 @@ N.I.A.D/ </br>
 ├── README.md                 # Project summary + how to run</br>
 └── .gitignore</br>
 
+
+# Day wise check 
+## 10/20/25 
+Ashna : to-do - fix the server , 
+Durga : to do - preprocess the datasets and train the model , explain so far updates to Janet 
+Janet :
+Kassandra : 
