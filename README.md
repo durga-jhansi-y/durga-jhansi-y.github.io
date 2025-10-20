@@ -1,10 +1,6 @@
 # N.I.A.D
-<<<<<<< HEAD
-# Network Intrusion and Anomaly Detector:
+## Network Intrusion and Anomaly Detector:
 This project uses machine learning to analyze network traffic and classify it as either normal or anomalous, indicating a potential threat.  Threat detected Anomalous network activity, which can indicate port scanning, denial-of-service attempts, or other unauthorized behavior. 
-=======
-## Network Intrusion and Anomaly Detector </br>
-This project uses machine learning to analyze network traffic and classify it as either normal or anomalous, indicating a potential threat. </br>
 
 ### Threats : </br>
 Anomalous network activity, which can indicate port scanning, denial-of-service attempts, or other unauthorized behavior. </br>
