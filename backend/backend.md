@@ -13,5 +13,7 @@ Repo & Folder Setup </br>
 ├─ venv/ # Virtual environment</br> 
 └─ README.md</br> 
 ## Step 2: 
+Goal: Prepare the NSL-KDD dataset so that your model can understand it — i.e., clean, normalize, and encode the data.
+
 ## Step 3:
 ## Step 4:
