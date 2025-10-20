@@ -29,4 +29,3 @@ After training, feed new, live network traffic to your model. Any significant de
 #### Trigger an alert: 
 When an anomaly is detected, the system can print an alert to the console or log the details of the suspicious activity.</br>
 
->>>>>>> 409b8e6eba6eac20a20458cb90827be0ec1eb728
