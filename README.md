@@ -47,7 +47,7 @@ frontend/ </br>
 ├── style.css    </br>
 ├── script.js    </br>
 ├── assets/      </br>
-│   ├── logo.png   </br>
+│   ├── logo.png  </br>
 │   └── icons/     </br>
 └── libs/
     ├── chart.js     </br>
