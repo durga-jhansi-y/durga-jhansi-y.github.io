@@ -14,6 +14,12 @@ Repo & Folder Setup </br>
 └─ README.md</br> 
 ## Step 2: 
 Goal: Prepare the NSL-KDD dataset so that your model can understand it — i.e., clean, normalize, and encode the data.
+- Loaded the KDDTrain+ and KDDTest+ files</br>
+- Encoded categorical columns</br>
+- Scaled all numerical columns</br>
+- And saved the clean dataset to:</br>
+backend/processed_data.csv</br>
+D:/UTSA/Fall 25'/RowdyHack/N.I.A.D/data/processed/processed_dataset.csv</br>
 
 ## Step 3:
 ## Step 4:
