@@ -59,7 +59,9 @@ frontend/ </br>
 
 # Day wise check 
 ## 10/20/25 
-Ashna : to-do - fix the server(HOLD) , Make a step wise plan for frontend and update it on projectSteps.md in frontened branch </br>
-Durga : to do - preprocess the datasets and train the model , explain so far updates to Janet </br>
-Janet : </br>
-Kassandra : </br>
+- Ashna : to-do - fix the server(HOLD) , Make a step wise plan for frontend and update it on projectSteps.md in frontened branch </br>
+- Durga : preprocess the datasets - done </br>
+  train the model - no longer avaible , importing and training a new model </br>
+  explain so far updates to Janet - added her to repo and group and updates pasted on frontend.md </br>
+- Janet : </br>
+- Kassandra : </br>
