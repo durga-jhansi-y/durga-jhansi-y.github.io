@@ -43,15 +43,15 @@ N.I.A.D/ </br>
 │</br>
 frontend/
 │
-├── index.html        # Main dashboard page
-├── style.css         # Styling + animations
-├── script.js         # JS logic for fetching and updating data
-├── assets/
-│   ├── logo.png
-│   └── icons/        # optional icons or gifs
+├── index.html  </br>
+├── style.css    </br>
+├── script.js    </br>
+├── assets/      </br>
+│   ├── logo.png   </br>
+│   └── icons/     </br>
 └── libs/
-    ├── chart.js      # for graphs if you use Chart.js
-    └── anime.min.js  # optional animations library
+    ├── chart.js     </br>
+    └── anime.min.js  </br>
 │</br>
 ├── README.md                 # Project summary + how to run</br>
 └── .gitignore</br>
