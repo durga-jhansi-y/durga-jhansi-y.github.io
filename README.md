@@ -41,12 +41,17 @@ N.I.A.D/ </br>
 │   ├── requirements.txt      # Dependencies</br>
 │   └── backend.md            # Your progress documentation</br>
 │</br>
-├── frontend/</br>
-│   ├──  </br>
-│   ├──  </br>
-│   ├──  </br>
-│   ├──  </br>
-│   └──  </br>
+frontend/
+│
+├── index.html        # Main dashboard page
+├── style.css         # Styling + animations
+├── script.js         # JS logic for fetching and updating data
+├── assets/
+│   ├── logo.png
+│   └── icons/        # optional icons or gifs
+└── libs/
+    ├── chart.js      # for graphs if you use Chart.js
+    └── anime.min.js  # optional animations library
 │</br>
 ├── README.md                 # Project summary + how to run</br>
 └── .gitignore</br>
