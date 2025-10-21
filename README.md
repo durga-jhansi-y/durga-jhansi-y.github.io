@@ -65,3 +65,10 @@ frontend/ </br>
   explain so far updates to Janet - added her to repo and group and updates pasted on frontend.md </br>
 - Janet : </br>
 - Kassandra : </br>
+
+## 10/21/25
+- Ashna :
+- Durga : to do - import a new tabular analysis model from HuggingFace.com </br>
+acquire other kinds of datasets (so far got KDD data sets , need more for versatility) </br>
+
+- Janet : to do - start training the new model 
