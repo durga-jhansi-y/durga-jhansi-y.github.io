@@ -41,7 +41,7 @@ N.I.A.D/ </br>
 │   ├── requirements.txt      # Dependencies</br>
 │   └── backend.md            # Your progress documentation</br>
 │</br>
-frontend/
+frontend/ </br>
 │
 ├── index.html  </br>
 ├── style.css    </br>
